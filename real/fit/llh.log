@@ -1,0 +1,99 @@
+total 112
+-rw-rw-r-- 1 mrongen mrongen    98 1471536929 run
+-rw-rw-r-- 1 mrongen mrongen     6 1471536929 fla
+lrwxrwxrwx 1 mrongen mrongen    20 1471536929 dat -> ../dat/all/oux.24_41
+-rw-rw-r-- 1 mrongen mrongen   706 1471536929 bad
+-rw-r--r-- 1 mrongen mrongen    29 1471546335 host
+-rw-r--r-- 1 mrongen mrongen  1078 1471546335 env
+-rw-r--r-- 1 mrongen mrongen     0 1471546335 dmesg
+-rw-r--r-- 1 mrongen mrongen    11 1471546338 out
+-rw-r--r-- 1 mrongen mrongen 83199 1471547454 log
+total 156
+-rw-rw-r-- 1 mrongen mrongen     98 1471962177 run
+-rw-rw-r-- 1 mrongen mrongen      6 1471962177 fla
+lrwxrwxrwx 1 mrongen mrongen     20 1471962177 dat -> ../dat/all/oux.80_44
+-rw-rw-r-- 1 mrongen mrongen    712 1471962177 bad
+-rw-r--r-- 1 mrongen mrongen     28 1471968738 host
+-rw-r--r-- 1 mrongen mrongen   1070 1471968738 env
+-rw-r--r-- 1 mrongen mrongen      0 1471968738 dmesg
+-rw-r--r-- 1 mrongen mrongen     11 1471968741 out
+-rw-r--r-- 1 mrongen mrongen 130323 1471971745 log
+ls: cannot access ../fit.-405/host: No such file or directory
+total 14
+-????????? ? ?       ?          ? ? host
+-rw-rw-r-- 1 mrongen mrongen  130 1507739708 run
+-rw-rw-r-- 1 mrongen mrongen    5 1507739708 fla
+lrwxrwxrwx 1 mrongen mrongen   19 1507739708 dat -> ../dat/all/oux.8_15
+-rw-rw-r-- 1 mrongen mrongen  699 1507739708 bad
+-rw-r--r-- 1 mrongen mrongen    0 1507741049 out
+-rw-r--r-- 1 mrongen mrongen  753 1507741049 log
+-rw-r--r-- 1 mrongen mrongen  104 1507741049 fail
+-rw-r--r-- 1 mrongen mrongen 1085 1507741049 env
+-rw-r--r-- 1 mrongen mrongen    0 1507741049 dmesg
+ls: cannot access ../fit.-4472/host: No such file or directory
+total 14
+-????????? ? ?       ?          ? ? host
+-rw-rw-r-- 1 mrongen mrongen  131 1507739901 run
+-rw-rw-r-- 1 mrongen mrongen    6 1507739901 fla
+lrwxrwxrwx 1 mrongen mrongen   20 1507739901 dat -> ../dat/all/oux.82_24
+-rw-rw-r-- 1 mrongen mrongen  712 1507739901 bad
+-rw-r--r-- 1 mrongen mrongen    0 1507743787 out
+-rw-r--r-- 1 mrongen mrongen  754 1507743787 log
+-rw-r--r-- 1 mrongen mrongen  106 1507743787 fail
+-rw-r--r-- 1 mrongen mrongen 1096 1507743787 env
+-rw-r--r-- 1 mrongen mrongen    0 1507743787 dmesg
+ls: cannot access ../fit.-4613/host: No such file or directory
+total 44
+-????????? ? ?       ?           ? ? host
+-rw-rw-r-- 1 mrongen mrongen   131 1509087814 run
+-rw-rw-r-- 1 mrongen mrongen     6 1509087814 fla
+lrwxrwxrwx 1 mrongen mrongen    20 1509087814 dat -> ../dat/all/oux.84_46
+-rw-rw-r-- 1 mrongen mrongen   706 1509087814 bad
+-rw-r--r-- 1 mrongen mrongen     0 1509179673 dmesg
+-rw-r--r-- 1 mrongen mrongen    46 1509179883 out
+-rw-r--r-- 1 mrongen mrongen 21692 1509179893 log
+ls: cannot access ../fit.-4628/out: No such file or directory
+total 12
+-????????? ? ?       ?         ? ? out
+-rw-rw-r-- 1 mrongen mrongen 130 1509087815 run
+-rw-rw-r-- 1 mrongen mrongen   5 1509087815 fla
+lrwxrwxrwx 1 mrongen mrongen  19 1509087815 dat -> ../dat/all/oux.85_1
+-rw-rw-r-- 1 mrongen mrongen 699 1509087815 bad
+-rw-r--r-- 1 mrongen mrongen   0 1509179714 dmesg
+ls: cannot access ../fit.-4642/log: No such file or directory
+total 16
+-????????? ? ?       ?         ? ? log
+-rw-rw-r-- 1 mrongen mrongen 130 1509087816 run
+-rw-rw-r-- 1 mrongen mrongen   6 1509087816 fla
+lrwxrwxrwx 1 mrongen mrongen  20 1509087816 dat -> ../dat/all/oux.85_15
+-rw-rw-r-- 1 mrongen mrongen 706 1509087816 bad
+-rw-r--r-- 1 mrongen mrongen   0 1509179728 dmesg
+-rw-r--r-- 1 mrongen mrongen  11 1509179730 out
+ls: cannot access ../fit.-4645/host: No such file or directory
+total 32
+-????????? ? ?       ?           ? ? host
+-rw-rw-r-- 1 mrongen mrongen   130 1509087816 run
+-rw-rw-r-- 1 mrongen mrongen     6 1509087816 fla
+lrwxrwxrwx 1 mrongen mrongen    20 1509087816 dat -> ../dat/all/oux.85_18
+-rw-rw-r-- 1 mrongen mrongen   712 1509087816 bad
+-rw-r--r-- 1 mrongen mrongen     0 1509179732 dmesg
+-rw-r--r-- 1 mrongen mrongen    11 1509179734 out
+-rw-r--r-- 1 mrongen mrongen 16218 1509179900 log
+ls: cannot access ../fit.-4668/out: No such file or directory
+total 12
+-????????? ? ?       ?         ? ? out
+-rw-rw-r-- 1 mrongen mrongen 131 1509087817 run
+-rw-rw-r-- 1 mrongen mrongen   6 1509087817 fla
+lrwxrwxrwx 1 mrongen mrongen  20 1509087817 dat -> ../dat/all/oux.85_41
+-rw-rw-r-- 1 mrongen mrongen 712 1509087817 bad
+-rw-r--r-- 1 mrongen mrongen   0 1509179785 dmesg
+ls: cannot access ../fit.-4672/host: No such file or directory
+total 24
+-????????? ? ?       ?          ? ? host
+-rw-rw-r-- 1 mrongen mrongen  131 1509087818 run
+-rw-rw-r-- 1 mrongen mrongen    6 1509087818 fla
+lrwxrwxrwx 1 mrongen mrongen   20 1509087818 dat -> ../dat/all/oux.85_45
+-rw-rw-r-- 1 mrongen mrongen  717 1509087818 bad
+-rw-r--r-- 1 mrongen mrongen    0 1509179824 dmesg
+-rw-r--r-- 1 mrongen mrongen   11 1509179827 out
+-rw-r--r-- 1 mrongen mrongen 8089 1509179900 log

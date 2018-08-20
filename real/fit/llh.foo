@@ -1,0 +1,10 @@
+total 68
+-rw-rw-r-- 1 mrongen mrongen     6 1527176460 fla
+lrwxrwxrwx 1 mrongen mrongen    20 1527176460 dat -> ../dat/all/oux.67_54
+-rw-rw-r-- 1 mrongen mrongen   700 1527176460 bad
+-rw-rw-r-- 1 mrongen mrongen   131 1527176461 run
+-rw-r--r-- 1 mrongen mrongen    27 1527176930 host
+-rw-r--r-- 1 mrongen mrongen  1528 1527176930 env
+-rw-r--r-- 1 mrongen mrongen     0 1527176930 dmesg
+-rw-r--r-- 1 mrongen mrongen    84 1527177129 out
+-rw-r--r-- 1 mrongen mrongen 39443 1527177186 log

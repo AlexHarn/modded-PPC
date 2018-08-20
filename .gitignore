@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.syncrconf*
+testing/
+
+real/dat
+real/ice/ppc*
+
+no_abs/dat
+no_abs/ice/ppc*

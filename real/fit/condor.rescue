@@ -1,0 +1,32 @@
+Universe        = vanilla
+Notification    = never
+Executable      = one.sh
+
+Output          = condor/run.out
+Error           = condor/run.err
+Log             = condor/run.log
+
+request_gpus    = 1
+request_memory  = 5GB
+
+requirements    = regexp("rad", Machine) != True
+
+Arguments       = 0
+Priority = 10
+queue
+
+Arguments       = 1
+Priority = 10
+queue
+
+Arguments       = 2
+Priority = 10
+queue
+
+Arguments       = 3
+Priority = 10
+queue
+
+Arguments       = 4
+Priority = 10
+queue

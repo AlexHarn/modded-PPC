@@ -1,0 +1,15 @@
+Universe        = vanilla
+Notification    = never
+Executable	= one.sh
+
+Output          = condor/run.out
+Error           = condor/run.err
+Log             = condor/run.log
+
+Arguments	= $(Process)
+
+request_gpus	= 1
+
+#queue 4746
+#queue 414
+queue 2
