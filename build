@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd real/gpu
+make cpu && mv ppc ../ice
+
+cd ../../no_abs/gpu
+make cpu && mv ppc ../ice
