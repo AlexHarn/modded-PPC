@@ -3,8 +3,8 @@
 #define ASENS        // enable angular sensitivity
 #define RAND         // disable for deterministic results
 
-//#define TILT         // enable tilted ice layers
-//#define ANIZ         // enable anisotropic ice
+#define TILT         // enable tilted ice layers
+#define ANIZ         // enable anisotropic ice
 //#define HOLE       // enable direct hole ice simulation
 //#define PDIR       // record photon arrival direction and impact point
 
