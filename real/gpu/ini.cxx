@@ -54,7 +54,7 @@
 #define NPHO   1024  // maximum number of photons propagated by one thread
 
 #define WNUM   32    // number of wavelength slices
-#define MAXLYS 180   // maximum number of ice layers
+#define MAXLYS 171   // maximum number of ice layers
 #define MAXGEO 5200  // maximum number of OMs
 #define MAXRND 131072   // max. number of random number multipliers
 
