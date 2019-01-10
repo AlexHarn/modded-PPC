@@ -384,8 +384,7 @@ void print(){
 #ifdef PDIR
       printf("HIT %d %d %f %f %f %f %f %f\n", n.str, n.dom, h.t, h.z, h.pth, h.pph, h.dth, h.dph);
 #else
-      //printf("HIT %d %d %f %f\n", n.str, n.dom, h.t, h.z);
-      printf("%d,%d,%.2f,%.2f\n", n.str, n.dom, h.t, h.z);
+      printf("%d,%.2f,%.2f\n", (n.str - 1)*60+(n.dom - 1), h.t, h.z);
 #endif
 #endif
     }
